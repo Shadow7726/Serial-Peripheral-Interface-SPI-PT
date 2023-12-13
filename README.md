@@ -1,5 +1,25 @@
 # Pentesting SPI
 
+# References for Hardware Hacking and SPI Attack Surface
+
+- [Hardware Attack Surface: SPI](https://payatu.com/wp-content/uploads/2022/12/c15.pdf)
+- [HARDWARE HACKING 101: INTERFACING WITH SPI](https://riverloopsecurity.com/blog/2020/02/hw-101-spi/)
+- [Dumping the Firmware from the Device Using Buspirate - SPI](https://www.iotpentest.com/2019/06/dumping-firmware-from-device-using.html)
+- [Analyzing SPI (Serial Peripheral Interface)](https://nse.digital/pages/guides/hardware/spi.html)
+- [Write-Up: SPI Flash for Bug Bounty Hunters](https://www.bugcrowd.com/resources/levelup/writeup-spi-flash-for-bug-bounty-hunters/)
+- [SPI-Dump Flash Bus Pirate + flashrom](https://book.hacktricks.xyz/todo/hardware-hacking/spi)
+- [An Introduction to Hardware Hacking](https://www.cyberark.com/resources/threat-research-blog/an-introduction-to-hardware-hacking)
+- [Hardware-Hacking: Lifting Firmware](https://rift.stacktitan.com/lifting-firmware-part-one/)
+- [Hardware-Hacking: Arduino R4 and a Microwire EEPROM](https://rift.stacktitan.com/hardware-hacking-arduino-r4-eeprom-and-microwire/)
+- [Hack IoT Devices - Embedded Exploitation](https://blog.attify.com/hack-iot-devices-embedded-exploitation/)
+- [Introduction to Hardware Hacking - Abricto Security](https://abrictosecurity.com/introduction-to-hardware-hacking-part-1/)
+- [Hardware Hacking with the Beaglebone (Bl|H)ack](https://hardwear.io/document/Hardware-Hacking-with-the-Beaglebone-B-Hack.pdf)
+- [Exploiting Embedded APIs by Dumping Firmware](https://danaepp.com/exploiting-embedded-apis-by-dumping-firmware)
+- [Intro To Hardware Hacking - Dumping Your First Firmware](https://hex0punk.com/posts/intro-hw-hacking/)
+- [Introduction to IoT Hardware Hacking - Hackers Arcade](https://hackersarcade.medium.com/introduction-to-iot-hardware-hacking-ca1d8adeebcb)
+```
+
+This format includes the titles of the resources along with the links. You can copy and paste this format into your Markdown document, making it easier to refer to these resources.
 | Area | Steps | Hardware Tools | Software Tools |
 |-|-|-|-|  
 | Recon | Identify SPI Chips | [Multimeter](https://www.keysight.com/en/pd-1985909/keysight-digital-multimeters?cc=US&lc=eng), [Oscilloscope](https://www.tek.com/oscilloscope/mso5000-mixed-signal-oscilloscope-series) | [Datasheets](https://www.alldatasheet.com) |
