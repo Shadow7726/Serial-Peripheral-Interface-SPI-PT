@@ -17,6 +17,8 @@
 - [Exploiting Embedded APIs by Dumping Firmware](https://danaepp.com/exploiting-embedded-apis-by-dumping-firmware)
 - [Intro To Hardware Hacking - Dumping Your First Firmware](https://hex0punk.com/posts/intro-hw-hacking/)
 - [Introduction to IoT Hardware Hacking - Hackers Arcade](https://hackersarcade.medium.com/introduction-to-iot-hardware-hacking-ca1d8adeebcb)
+- [SPI and I2C hacking](https://hackyourmom.com/en/osvita/chastyna-8-zlom-aparatnoyi-chastyny-systemy-spi-ta-i2c/)
+
 
 
 This format includes the titles of the resources along with the links. You can copy and paste this format into your Markdown document, making it easier to refer to these resources.
