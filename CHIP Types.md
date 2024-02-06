@@ -1,26 +1,28 @@
-# SPI CHIPS
+Here's the updated list with image links added for each type of SPI chip:
 
-* **Memory chips:** These chips are used to store data, such as flash memory chips, EEPROM chips, and SRAM chips.
-[Image of SPI memory chip]
-* **Communication chips:** These chips are used to communicate with other devices, such as Ethernet controllers, Wi-Fi modules, and Bluetooth modules.
-[Image of SPI communication chip]
-* **Sensor chips:** These chips are used to sense the environment, such as temperature sensors, pressure sensors, and accelerometers.
-[Image of SPI sensor chip]
-* **Display drivers:** These chips are used to drive displays, such as LCD displays and OLED displays.
-[Image of SPI display driver chip]
-* **Analog-to-digital converters (ADCs):** These chips convert analog signals into digital signals.
-[Image of SPI ADC chip]
-* **Digital-to-analog converters (DACs):** These chips convert digital signals into analog signals.
-[Image of SPI DAC chip]
-* **Audio codecs:** These chips are used to process audio signals.
-[Image of SPI audio codec chip]
+- **Memory Chips**: 
+  - Flash memory chips ![SPI memory chip](https://ar.mouser.com)
+  - EEPROM chips ![SPI memory chip](https://ar.mouser.com)
+  - SRAM chips ![SPI memory chip](https://ar.mouser.com)
 
-The specific type of SPI chip that you need will depend on your specific application. When choosing an SPI chip, you should consider the following factors:
+- **Communication Chips**: 
+  - Ethernet controllers ![SPI communication chip](https://learn.sparkfun.com)
+  - Wi-Fi modules ![SPI communication chip](https://learn.sparkfun.com)
+  - Bluetooth modules ![SPI communication chip](https://learn.sparkfun.com)
 
-* **Functionality:** What do you need the chip to do?
-* **Performance:** What are the speed and power consumption requirements?
-* **Cost:** How much are you willing to spend?
-* **Package:** What type of package is available?
-* **Manufacturer:** Who makes the chip?
+- **Sensor Chips**: 
+  - Temperature sensors ![SPI sensor chip](https://www.amazon.com.mx)
+  - Pressure sensors ![SPI sensor chip](https://www.amazon.com.mx)
+  - Accelerometers ![SPI sensor chip](https://www.amazon.com.mx)
 
-I hope this helps! Let me know if you have any other questions.
+- **Display Drivers**: 
+  - LCD display drivers ![SPI display driver chip](https://www.amazon.ca)
+  - OLED display drivers ![SPI display driver chip](https://www.amazon.ca)
+
+- **Analog-to-Digital Converters (ADCs)** ![SPI ADC chip](https://www.adafruit.com)
+
+- **Digital-to-Analog Converters (DACs)** ![SPI DAC chip](https://www.electronicscomp.com)
+
+- **Audio Codecs** ![SPI audio codec chip](https://www.tme.eu)
+
+Please note that the actual links to the images are not provided here as they were not available in the original response. You would need to replace the placeholder links with the actual image URLs. Let me know if you need further assistance!
