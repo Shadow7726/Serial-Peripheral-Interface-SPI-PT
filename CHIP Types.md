@@ -1,28 +1,20 @@
-Here's the updated list with image links added for each type of SPI chip:
+# SPI chip pins and example vendors:
 
-- **Memory Chips**: 
-  - Flash memory chips ![SPI memory chip](https://ar.mouser.com)
-  - EEPROM chips ![SPI memory chip](https://ar.mouser.com)
-  - SRAM chips ![SPI memory chip](https://ar.mouser.com)
+| SPI Chip Type                   | Example                   | Pins | Example Vendor      |
+|--------------------------------|---------------------------|------|----------------------|
+| **Memory Chips**                | Flash memory chips        | Varies | Micron, Samsung     |
+|                                 | EEPROM chips              | Varies | Microchip, STMicroelectronics |
+|                                 | SRAM chips                | Varies | ISSI, Cypress       |
+| **Communication Chips**         | Ethernet controllers      | Varies | Microchip, Texas Instruments |
+|                                 | Wi-Fi modules             | Varies | Espressif, Broadcom |
+|                                 | Bluetooth modules         | Varies | Nordic, Cypress     |
+| **Sensor Chips**                | Temperature sensors       | Varies | Texas Instruments, Maxim Integrated |
+|                                 | Pressure sensors          | Varies | Bosch, Honeywell    |
+|                                 | Accelerometers            | Varies | STMicroelectronics, Analog Devices |
+| **Display Drivers**             | LCD display drivers       | Varies | Novatek, Solomon Systech |
+|                                 | OLED display drivers      | Varies | SSD1306, RA8875     |
+| **Analog-to-Digital Converters (ADCs)** | ADC chips           | Varies | Analog Devices, Maxim Integrated |
+| **Digital-to-Analog Converters (DACs)** | DAC chips           | Varies | Texas Instruments, Microchip |
+| **Audio Codecs**                | Audio codec chips         | Varies | Cirrus Logic, AKM Semiconductor |
 
-- **Communication Chips**: 
-  - Ethernet controllers ![SPI communication chip](https://learn.sparkfun.com)
-  - Wi-Fi modules ![SPI communication chip](https://learn.sparkfun.com)
-  - Bluetooth modules ![SPI communication chip](https://learn.sparkfun.com)
-
-- **Sensor Chips**: 
-  - Temperature sensors ![SPI sensor chip](https://www.amazon.com.mx)
-  - Pressure sensors ![SPI sensor chip](https://www.amazon.com.mx)
-  - Accelerometers ![SPI sensor chip](https://www.amazon.com.mx)
-
-- **Display Drivers**: 
-  - LCD display drivers ![SPI display driver chip](https://www.amazon.ca)
-  - OLED display drivers ![SPI display driver chip](https://www.amazon.ca)
-
-- **Analog-to-Digital Converters (ADCs)** ![SPI ADC chip](https://www.adafruit.com)
-
-- **Digital-to-Analog Converters (DACs)** ![SPI DAC chip](https://www.electronicscomp.com)
-
-- **Audio Codecs** ![SPI audio codec chip](https://www.tme.eu)
-
-Please note that the actual links to the images are not provided here as they were not available in the original response. You would need to replace the placeholder links with the actual image URLs. Let me know if you need further assistance!
+Please note that the number of pins and example vendors can vary widely depending on the specific chip model and manufacturer.
