@@ -30,9 +30,9 @@ There are two main ways to perform SPI sniffing with Bus Pirate:
   - Use `SPIReadCont` for continuous sniffing.
   - Press `ESC` to stop sniffing.
 
-**2. SPISniffer Utility:**
+**2. SPISniffer Utility:**  [Bus Pirate binary SPI sniffer utility documentation](http://dangerousprototypes.com/docs/Bus_Pirate_binary_SPI_sniffer_utility)
 
-- **Download and run the SPISniffer utility from Dangerous Prototypes website.**
+- **Download and run the SPISniffer utility from Dangerous Prototypes website.**  
 - **Connect the Bus Pirate to your computer and run the utility.**
 - **Select the COM port and set the baud rate.**
 - **Choose the "Bus Pirate OLS mode".**
