@@ -18,6 +18,7 @@
 - [Intro To Hardware Hacking - Dumping Your First Firmware](https://hex0punk.com/posts/intro-hw-hacking/)
 - [Introduction to IoT Hardware Hacking - Hackers Arcade](https://hackersarcade.medium.com/introduction-to-iot-hardware-hacking-ca1d8adeebcb)
 - [SPI and I2C hacking](https://hackyourmom.com/en/osvita/chastyna-8-zlom-aparatnoyi-chastyny-systemy-spi-ta-i2c/)
+- [A-Z SPI Hacking Step by Step](https://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/)
 
 
 
